@@ -13,7 +13,8 @@ The TikTok signature/encryption protocol service, stably support for a single cu
 
 Contact: 
 * Gmail: reverse4free@gmail.com
-* Telegram: https://t.me/reverse4free2
+* Telegram: https://t.me/reverse4free4
+* Telegram(Old): https://t.me/reverse4free2 (status: banned)
 * Website: https://tt-do2.pages.dev/
 * Rapidapi: https://rapidapi.com/AlanWang/api/tiktokperseus2
 * Gitlab: https://gitlab.com/reverse4free/tiktokperseus
